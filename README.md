@@ -6,6 +6,6 @@ Docker Hub Repositories
 Flask Image
 Django Image
 How to Run
-git clone https://github.com/SRCEM-AIML/C27-ShreyanshBB_assignment-3-flask-django-docker
+git clone https://github.com/SRCEM-AIML/C26_Assignment_3
 cd assignment-3-flask-django-docker
 docker-compose up --build
